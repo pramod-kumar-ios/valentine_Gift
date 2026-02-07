@@ -262,12 +262,12 @@ export default function Valentine() {
                                 <p className="italic text-lg font-medium">Every once in a while, life gives us a moment that changes everything. For me, that moment was meeting you.</p>
                                 <p className="italic text-lg font-medium">I wanted to make this special because you deserve the world. Your smile is my favorite view, and your happiness is my favorite goal.</p>
                                 <div className="pt-6 text-center">
-                                    <p className="font-bold text-pink-600 text-2xl animate-pulse">I have one very important question left...</p>
+                                    <p className="font-bold text-pink-600 text-2xl animate-pulse">You are my favorite chapter, and I'm ready for the next one...</p>
                                 </div>
                             </div>
                             <div className="mt-10 text-center">
                                 <button onClick={() => setStep("question")} className="group px-8 py-3 bg-rose-500/80 text-white rounded-full font-serif hover:bg-rose-600 transition-all shadow-lg flex items-center gap-2 mx-auto hover:scale-105 active:scale-95">
-                                    Turn the page <span className="group-hover:translate-x-1 transition-transform">→</span>
+                                    Take the next step 💖 <span className="group-hover:translate-x-1 transition-transform">→</span>
                                 </button>
                             </div>
                         </div>
