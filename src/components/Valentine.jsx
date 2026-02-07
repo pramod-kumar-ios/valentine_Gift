@@ -27,7 +27,7 @@ const questions = [
     { q: "Who said 'I love you' & 'Kissed' first?", a: "Shivani", options: ["Pramod", "Shivani", "Both at once", "Nobody yet!"] },
     { q: "What is my favorite thing about you?", a: "Everything", options: ["Your Eyes", "Your Kindness", "Your Smile", "Everything"] },
     { q: "What was I wearing when we first met?", a: "Pink T-Shirt", options: ["Pink T-Shirt", "Formals", "Blue shirt", "I can't remember!"] },
-    { q: "What is the one promise I intend to keep forever?", a: "All of the above", options: ["To always protect you", "To never let you go", "To make you laugh daily", "All of the above"] },
+    { q: "What is the one promise I intend to keep forever?", a: "All of the above", options: ["To always protect you", "To never let you go", "To love you daily", "All of the above"] },
 ];
 
 // 2. FLOATING HEARTS COMPONENT
